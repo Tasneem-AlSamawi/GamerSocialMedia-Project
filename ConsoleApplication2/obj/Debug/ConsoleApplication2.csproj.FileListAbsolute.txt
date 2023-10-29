@@ -1,0 +1,15 @@
+K:\IT\IT2\Second Year\c#\مشاريع\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+K:\IT\IT2\Second Year\c#\مشاريع\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+K:\IT\IT2\Second Year\c#\مشاريع\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+K:\IT\IT2\Second Year\c#\مشاريع\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+K:\IT\IT2\Second Year\c#\مشاريع\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+K:\IT\IT2\Second Year\c#\مشاريع\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\nabil\Desktop\المشروع النهائي\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\nabil\Desktop\المشروع النهائي\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\nabil\Desktop\المشروع النهائي\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\nabil\Desktop\المشروع النهائي\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\nabil\Desktop\المشروع النهائي\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\nabil\Desktop\المشروع النهائي\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\nabil\Desktop\Final project for GamerSocialMedia\Tasneem Nabil C# OOP Project\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\nabil\Desktop\Final project for GamerSocialMedia\Tasneem Nabil C# OOP Project\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\nabil\Desktop\Final project for GamerSocialMedia\Tasneem Nabil C# OOP Project\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
